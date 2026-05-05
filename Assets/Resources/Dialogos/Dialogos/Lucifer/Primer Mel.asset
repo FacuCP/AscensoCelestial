@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: Primer Mel
+  m_EditorClassIdentifier: 
+  _id: 35853518-58a8-4f33-a3c0-2c925511f5dd
+  _prioridad: 0
+  _leida: 0
+  unica: 1
+  dialogos:
+  - personaje: 2
+    texto: "Logr\xE9 enfrentar a la mano derecha de Dios\u2026 pero su poder era
+      abrumador."
+  - personaje: 1
+    texto: "\xBFY qu\xE9 esperabas? Sos un \xE1ngel de la guarda. No est\xE1s hecho
+      para vencer a alguien como ella."
+  - personaje: 1
+    texto: "Mel\u2026 es la segunda seraf\xEDn m\xE1s poderosa. Despu\xE9s de m\xED,
+      claro."
+  - personaje: 2
+    texto: "Hay algo m\xE1s\u2026 cuando me desterr\xF3, su castigo se sinti\xF3\u2026
+      familiar."
+  - personaje: 1
+    texto: "\xBFFamiliar? \xBFA qu\xE9 te refer\xEDs?"
+  - personaje: 2
+    texto: "Como si hubiese sido ella\u2026 quien me estuvo desterrando todo este
+      tiempo."
+  - personaje: 1
+    texto: "Interesante\u2026"
+  - personaje: 1
+    texto: "Me encargar\xE9 de investigarlo."
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 1
+  primerVictoriaMel: 0
+  ultimaVictoriaMel: 0

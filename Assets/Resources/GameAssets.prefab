@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2960964490217158423
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3747392292503655468}
+  - component: {fileID: 5023689887486918968}
+  m_Layer: 0
+  m_Name: GameAssets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3747392292503655468
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2960964490217158423}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.51137, y: -0, z: 10.77962}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5023689887486918968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2960964490217158423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f6eddb6c25505e41aafd0d05b1911ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  popUpVida: {fileID: 7192018193401477749, guid: c7519be1dea8b0947b9bf98a8fb741c8, type: 3}
+  musicaMenu: {fileID: 8300000, guid: 7e9bd6dcb4317fd4cb4026f649874b65, type: 3}
+  musicaNiveles: {fileID: 8300000, guid: 883a28ede51aab74e876f011ade52888, type: 3}
+  musicaJefe: {fileID: 8300000, guid: 0a4b5d80b77ecc441849e22e7208f970, type: 3}
+  dmgTomado: {fileID: 8300000, guid: a772d5081850bd5429e782456d63ec3a, type: 3}
+  dmgCurado: {fileID: 8300000, guid: 05df1a847beca03488f71b7bd175da87, type: 3}
+  epifaniasFinNivel: {fileID: 8300000, guid: 8096c166cbb5c404594835c3a2b9d871, type: 3}
+  castAtaque: {fileID: 8300000, guid: 10d30a6f72e4b2645a43531022140d53, type: 3}
+  castPoder: {fileID: 8300000, guid: 2590222e5872f2c4087918d0e715cbfc, type: 3}
+  golpePoder: {fileID: 8300000, guid: cdfb7028998e9e3449767430cc4e148c, type: 3}
+  botonClick: {fileID: 8300000, guid: 19c58b49825db124ea9d07928b794b05, type: 3}
+  botonHover: {fileID: 8300000, guid: ebe3f375c9bc166418df84898b0c8a50, type: 3}
+  teleport: {fileID: 8300000, guid: 18b03709d59c4074b9b99f4ae062572e, type: 3}
+  morir: {fileID: 8300000, guid: 7ce277bfd585173479b7612482138f9f, type: 3}
+  poderes:
+  - {fileID: 4182079352323743930, guid: 5395a50df3339e542b0327ae1ad1dbd1, type: 3}
+  - {fileID: 2138881517054906662, guid: 2ee5538f4ba095448adf58d39e324a0c, type: 3}
+  - {fileID: 6628613017644602369, guid: 90aeab68fde2322408192070e07c2fcf, type: 3}
+  - {fileID: 3786655393738194909, guid: 7d6dfbaf26234f54ab5d9398b7bd1705, type: 3}
+  - {fileID: 3251277940797309099, guid: 3d8168178e9067a4d805ed15e4f09164, type: 3}
+  - {fileID: 3495890027428506716, guid: 422506aa06b2bb44e8cdb2fbc034d2bd, type: 3}
+  - {fileID: 5457069218326299225, guid: d9d915664c682f94d8b2341536704539, type: 3}
+  - {fileID: 6264706217125658830, guid: 47337867aea3f994a9b3ce40a2a501cc, type: 3}
+  - {fileID: 1155173324619720683, guid: 91cdf9f4237ef704f9fe9655d8abeeed, type: 3}
+  - {fileID: 6873711534800625697, guid: 70b16d755fb2ad44d9315691b00dbf61, type: 3}
+  forjas:
+  - {fileID: 2642135347193543862, guid: 9b821b7dbd8f9ff44967427a9ac750a0, type: 3}
+  - {fileID: 919387082105220886, guid: a6823dae4ac14fb40b4384434ad605b5, type: 3}
+  - {fileID: 6635637282358247814, guid: 671042911c648eb46bccf509e9453491, type: 3}
+  - {fileID: 8447028978411523934, guid: edf1295487afedd448f2b2c25268a382, type: 3}
+  - {fileID: 2541107501145405667, guid: cc7b9cdfeb30ecf45a819c118e045478, type: 3}
+  - {fileID: 4179896457729472613, guid: 3b344c846a8382649a153088425e16b2, type: 3}
+  - {fileID: 801208702221402047, guid: ebd200034766bb349bdc04602d9dffaa, type: 3}
+  - {fileID: 6902867704841051282, guid: fb4d4c6fb79527446999799605a7f1b2, type: 3}
+  favores:
+  - {fileID: 7046725452580215737, guid: e2c4b284c4388254884dfc2508f86c38, type: 3}
+  - {fileID: 2077181504609178506, guid: ed1ab42cd9af5d84a921a5b355e93db3, type: 3}
+  - {fileID: 5668680891325729354, guid: dd991a036f9794e4b96a7f2de66a0a09, type: 3}
+  - {fileID: 3939144046005527735, guid: 44e45e40fc7de08478896a8faed0263b, type: 3}
+  blasfemias:
+  - {fileID: 7775532424343496210, guid: 22fc9e1872ebed547b147f50e66f90b1, type: 3}
+  - {fileID: 4395936971971957362, guid: f463f9658653602419f7f05cc767272e, type: 3}
+  poderesEpifanias:
+  - {fileID: 11400000, guid: 06ab2c7f29748024c91b00cd2ed5bbf4, type: 2}
+  - {fileID: 11400000, guid: db3f9f0df1822794cb727e4610de345f, type: 2}
+  - {fileID: 11400000, guid: a56e2718d3b61534594016cd4feece4d, type: 2}
+  - {fileID: 11400000, guid: 9949b8c6b6a625943bde40c2380133a3, type: 2}
+  - {fileID: 11400000, guid: 5cc97033f874d8f4499e78b6e5e1c280, type: 2}
+  - {fileID: 11400000, guid: 4f796eb48006b8f4dac4839fc58b5d93, type: 2}
+  - {fileID: 11400000, guid: 3850d2a7450649348ac45b9155878917, type: 2}
+  - {fileID: 11400000, guid: 2365cc7c95b26bb428a157465271355c, type: 2}
+  - {fileID: 11400000, guid: f497d19773bd5f145983cd6ce937d109, type: 2}
+  - {fileID: 11400000, guid: 90869e5c1c1ec134892ebaf3984d6916, type: 2}
+  forjasEpifanias:
+  - {fileID: 11400000, guid: fff2f085f605ed4408bc10d25d5a3c4c, type: 2}
+  - {fileID: 11400000, guid: 32afc2a143b28f9499cb97dd8f849edd, type: 2}
+  - {fileID: 11400000, guid: e2ed148025d91a14a870bb55397f31e5, type: 2}
+  - {fileID: 11400000, guid: 92e897dc8dd6b5a478cdb2778c55f1ef, type: 2}
+  - {fileID: 11400000, guid: 3683e96009b5bc148b2ecdaac79a4c3c, type: 2}
+  - {fileID: 11400000, guid: 6bed3d8ca710f944a8b92977f673671c, type: 2}
+  - {fileID: 11400000, guid: f3712ea67ba8d4e46a95deb19ffde5bd, type: 2}
+  - {fileID: 11400000, guid: f8dfcedcff51167448ee6b86069b7de5, type: 2}
+  favoresEpifanias:
+  - {fileID: 11400000, guid: 8801802ca32e6d741b88026941d92dfe, type: 2}
+  - {fileID: 11400000, guid: 162b737f120176d45918446d693ee361, type: 2}
+  - {fileID: 11400000, guid: 7bc70e3ea5e516a4daebfedf3a388703, type: 2}
+  - {fileID: 11400000, guid: 9ad422f94a6e54a4c96da74aab0d3497, type: 2}
+  blasfemiasEpifanias:
+  - {fileID: 11400000, guid: 5169b8a764212374aa6cdd9bf857bfac, type: 2}
+  - {fileID: 11400000, guid: 20949108fb61e874f9d4a0c32b26b7e6, type: 2}

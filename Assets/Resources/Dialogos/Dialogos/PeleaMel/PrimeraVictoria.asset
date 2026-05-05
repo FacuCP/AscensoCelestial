@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: PrimeraVictoria
+  m_EditorClassIdentifier: 
+  _id: 447c25a1-90c7-4f6e-83a6-f1b74592be3d
+  _prioridad: 0
+  _leida: 0
+  unica: 1
+  dialogos:
+  - personaje: 2
+    texto: Ya descubrimos tu secreto.
+  - personaje: 2
+    texto: "Sos vos quien est\xE1 controlando a Dios."
+  - personaje: 2
+    texto: "Vos sos la culpable de todo esto\u2026"
+  - personaje: 2
+    texto: "De que esa alma inocente est\xE9 sufriendo en el infierno."
+  - personaje: 3
+    texto: "Qu\xE9 lento sos\u2026 \xBFreci\xE9n ahora lo entend\xE9s?"
+  - personaje: 3
+    texto: "Aunque, claro\u2026 \xBFqu\xE9 se puede esperar de un simple \xE1ngel
+      de la guarda?"
+  - personaje: 3
+    texto: "Yo soy quien gobierna este lugar. Y lo hago\u2026 desde hace siglos."
+  - personaje: 3
+    texto: "Dios se hab\xEDa desviado\u2026 estaba haciendo todo mal."
+  - personaje: 3
+    texto: "As\xED que tom\xE9 el control."
+  - personaje: 3
+    texto: "Ahora todo es perfecto\u2026 tal como debe ser."
+  - personaje: 3
+    texto: "Y vos\u2026 volver\xE1s al infierno."
+  - personaje: 3
+    texto: "Ahora todo es perfecto\u2026 tal como debe ser."
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 0
+  primerVictoriaMel: 1
+  ultimaVictoriaMel: 0

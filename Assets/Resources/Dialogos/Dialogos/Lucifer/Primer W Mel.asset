@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: Primer W Mel
+  m_EditorClassIdentifier: 
+  _id: c60a3ae3-27d9-41fa-92c6-04595e640104
+  _prioridad: 0
+  _leida: 0
+  unica: 1
+  dialogos:
+  - personaje: 2
+    texto: "\xA1Lo logr\xE9! \xA1Pude derrotarla! Pero en el \xFAltimo instante\u2026
+      reuni\xF3 lo que le quedaba de fuerza y me desterr\xF3\u2026"
+  - personaje: 1
+    texto: "Tal como lo tem\xEDa\u2026 esto explica muchas cosas."
+  - personaje: 1
+    texto: "Ella\u2026 est\xE1 drenando el poder de Dios."
+  - personaje: 2
+    texto: "\xBFC\xF3mo? Si ese don lo tengo yo\u2026 gracias a vos."
+  - personaje: 1
+    texto: "No sos el \xFAnico medio. Existen artefactos antiguos capaces de replicar
+      ese poder."
+  - personaje: 1
+    texto: "Seguramente encontr\xF3 uno\u2026 y lo ha estado usando todo este tiempo
+      en su favor."
+  - personaje: 2
+    texto: "Entonces\u2026 \xBFqu\xE9 hago?"
+  - personaje: 1
+    texto: "Mmm, su energ\xEDa es m\xE1s d\xE9bil ahora\u2026 puedo sentirlo."
+  - personaje: 1
+    texto: "Cada vez que la derrotes, se ir\xE1 desgastando un poco m\xE1s."
+  - personaje: 1
+    texto: "Vas a tener que insistir\u2026 una y otra vez\u2026 hasta que algo cambie."
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 0
+  primerVictoriaMel: 1
+  ultimaVictoriaMel: 0

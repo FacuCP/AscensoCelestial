@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: Ultimo W Mel
+  m_EditorClassIdentifier: 
+  _id: 409dfe9b-845e-4e7b-9b47-68bf887afd8e
+  _prioridad: 0
+  _leida: 0
+  unica: 1
+  dialogos:
+  - personaje: 1
+    texto: "Veo que est\xE1s aqu\xED\u2026 otra vez."
+  - personaje: 2
+    texto: "\xBFCu\xE1ntas veces m\xE1s tendr\xE9 que pasar por esto para derrotarla
+      de una vez por todas\u2026?"
+  - personaje: 1
+    texto: "Esta vez es distinta\u2026 puedo sentirlo."
+  - personaje: 1
+    texto: "Su aura est\xE1 al l\xEDmite, apenas se sostiene."
+  - personaje: 1
+    texto: "La pr\xF3xima vez que la derrotes\u2026 ser\xE1 la definitiva."
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 0
+  primerVictoriaMel: 0
+  ultimaVictoriaMel: 1

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: PrimerEncuentro
+  m_EditorClassIdentifier: 
+  _id: 325ac200-094a-4a68-8821-f0345d48cefb
+  _prioridad: 0
+  _leida: 0
+  unica: 1
+  dialogos:
+  - personaje: 3
+    texto: "As\xED que vos sos el \xE1ngel que ha estado sembrando el caos en el
+      Para\xEDso\u2026"
+  - personaje: 2
+    texto: "No tenemos por qu\xE9 pelear\u2026 dejame pasar. Este asunto es con Dios."
+  - personaje: 3
+    texto: Yo soy su mano derecha, yo me encargo de quien pasa...
+  - personaje: 3
+    texto: "Y LA ENTRADA EST\xC1 PROHIBIDA"
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 1
+  primerVictoriaMel: 0
+  ultimaVictoriaMel: 0

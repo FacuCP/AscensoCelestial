@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6741798247449486520
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7533769737702692017}
+  - component: {fileID: 6886351381303344523}
+  m_Layer: 0
+  m_Name: Lanzador Brillo Angelical
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7533769737702692017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6741798247449486520}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.60141, y: 1.15688, z: -5.45465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6886351381303344523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6741798247449486520}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a50fd8a3dc89ea42bdba30d3fcfc29b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabProyectil: {fileID: 4415896935276320452, guid: 1c15080e61a2c33438ed8053cadfcd0d, type: 3}
+  nombre: Brillo Angelical
+  recargaBase: 1
+  coste: 0
+  nivel: 1
+  clipCast: {fileID: 8300000, guid: 1b8e862b5c3877e43ad1f3e94e0a72e8, type: 3}
+  clipGolpe: {fileID: 8300000, guid: 914c1f7c02ddf3842891311b23768c93, type: 3}
+  tiempoRecarga: 1.2
+  dmgBase: 30
+  dmgPorCarga: 10
