@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52b8a69ba6217bf48b05f5b4a2df9a5c, type: 3}
+  m_Name: Espacio Seguro
+  m_EditorClassIdentifier: 
+  tipo: 1
+  prefab: {fileID: 5834690649364597742, guid: 90aeab68fde2322408192070e07c2fcf, type: 3}
+  descripcion: 
+  icono: {fileID: 21300000, guid: 00ee5a881f3541f4ebdae811409f0ef2, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: PM1
+  m_EditorClassIdentifier: 
+  _id: 6bf1b167-332c-422d-84e1-5b58375e0ede
+  _prioridad: 0
+  _leida: 0
+  unica: 0
+  dialogos:
+  - personaje: 3
+    texto: "Por mas que lo intentes, no pasar\xE1s por encima mio"
+  - personaje: 3
+    texto: Soy la mano derecha de Dios
+  - personaje: 3
+    texto: "Un simple angel no podr\xE1 contra mi"
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 0
+  primerVictoriaMel: 0
+  ultimaVictoriaMel: 0

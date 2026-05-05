@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: Inicial
+  m_EditorClassIdentifier: 
+  _id: 6b5bfcba-83e0-4888-84d5-ca16104e4837
+  _prioridad: 10
+  _leida: 0
+  unica: 1
+  dialogos:
+  - personaje: 1
+    texto: "Una vez cruces ese portal, ser\xE1s, oficialmente, enemigo de Dios."
+  - personaje: 1
+    texto: "Gracias a m\xED, posees el don de absorber la esencia de otros \xE1ngeles.
+      \xDAsalo con inteligencia."
+  - personaje: 1
+    texto: "No mueras. Bajo ninguna circunstancia. Si caes, te devolver\xE1n aqu\xED\u2026
+      y no habr\xE1 segunda salida."
+  - personaje: 2
+    texto: Entendido.
+  - personaje: 2
+    texto: "Y no olvides nuestro trato\u2026 as\xED como te di ese poder, tambi\xE9n
+      puedo arrebat\xE1rtelo."
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 0
+  primerVictoriaMel: 0
+  ultimaVictoriaMel: 0

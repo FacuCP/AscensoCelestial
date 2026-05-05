@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: Info Mel 2
+  m_EditorClassIdentifier: 
+  _id: 65d1fb88-c9af-4b2d-86b4-2cb18f107921
+  _prioridad: 7
+  _leida: 0
+  unica: 0
+  dialogos:
+  - personaje: 2
+    texto: "\xBFC\xF3mo puedo derrotar a Mel?"
+  - personaje: 1
+    texto: "Siendo un \xE1ngel de rango tan bajo\u2026 te ser\xE1 extremadamente
+      dif\xEDcil."
+  - personaje: 1
+    texto: Con ella, la clave es la paciencia.
+  - personaje: 1
+    texto: "Se pierde en su danza\u2026 se embelesa en su propia gracia."
+  - personaje: 1
+    texto: "Quiz\xE1s, en uno de esos momentos\u2026 encuentres la apertura que necesit\xE1s."
+  primeraMuerte: 0
+  primerEnfrentamientoMel: 1
+  primerVictoriaMel: 0
+  ultimaVictoriaMel: 0

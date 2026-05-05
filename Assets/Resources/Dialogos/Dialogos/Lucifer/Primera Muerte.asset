@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88bf5d8e082d5b9419597401f6983d4c, type: 3}
+  m_Name: Primera Muerte
+  m_EditorClassIdentifier: 
+  _id: 4aabeab0-a66c-4e37-be47-fec2f5a50037
+  _prioridad: 9
+  _leida: 0
+  unica: 1
+  dialogos:
+  - personaje: 1
+    texto: "Sab\xEDa que no lo lograr\xEDas\u2026 pero no perd\xEDa nada con intentarlo."
+  - personaje: 1
+    texto: "Aunque\u2026 hay algo distinto en ti\u2026"
+  - personaje: 1
+    texto: "Tu castigo\u2026 no se siente permanente."
+  - personaje: 2
+    texto: "\xBFC\xF3mo? \xBFA qu\xE9 te refer\xEDs?"
+  - personaje: 1
+    texto: "La energ\xEDa que te ata\u2026 no es como la m\xEDa. Es m\xE1s d\xE9bil\u2026
+      inestable."
+  - personaje: 1
+    texto: "Como si Dios\u2026 se hubiese debilitado. Como si sus castigos ya no
+      fueran lo que eran."
+  - personaje: 2
+    texto: "Entonces\u2026 \xBFqu\xE9 debo hacer?"
+  - personaje: 1
+    texto: "Sal de aqu\xED\u2026 y sigue intent\xE1ndolo."
+  primeraMuerte: 1
+  primerEnfrentamientoMel: 0
+  primerVictoriaMel: 0
+  ultimaVictoriaMel: 0

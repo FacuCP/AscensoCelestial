@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3328648650811304951
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4660131166069419272}
+  - component: {fileID: 5457069218326299225}
+  m_Layer: 0
+  m_Name: Lanzador Luz Divina
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4660131166069419272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3328648650811304951}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.75535, y: 0, z: -9.66296}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5457069218326299225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3328648650811304951}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9baecd751d39b1c4288758a80422ca44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prefabProyectil: {fileID: 5824769878380903233, guid: c381fe7932cd0f2408f1f572e6a1946e, type: 3}
+  nombre: Luz Divina
+  recargaBase: 3
+  coste: 20
+  nivel: 1
+  clipCast: {fileID: 8300000, guid: 1b8e862b5c3877e43ad1f3e94e0a72e8, type: 3}
+  clipGolpe: {fileID: 8300000, guid: 914c1f7c02ddf3842891311b23768c93, type: 3}
+  habilidad: {fileID: 11400000, guid: 3850d2a7450649348ac45b9155878917, type: 2}
+  maxCargas: 4
+  dmgBase: 15
+  escaladoNivel: 2.5
+  escaladoAura: 0.3
+  dmgMaxCargas: 50
+  dmgMaxCargasNivel: 10
+  dmgMaxCargasAura: 0.5
+  tiempoCegado: 3
